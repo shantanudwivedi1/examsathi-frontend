@@ -1,12 +1,12 @@
-# ExamSathi - Your Exam Partner 📚
+# ExamSathi - Your Exam Partner 
 
 **Tagline:** Study Smart, Not Hard.
 
-## 🎯 Overview
+## Overview
 
 ExamSathi is a multi-page educational website designed for college students preparing for exams. It provides organized, exam-focused study material including unit-wise notes, curated YouTube videos, book references, and an AI chatbot assistant.
 
-## ✨ Features
+## Features
 
 - **Course Selection**: Choose from B.Tech, MCA, MBA, B.Sc, BBA, M.Tech
 - **Subject-wise Organization**: Navigate through subjects specific to your course
@@ -18,7 +18,7 @@ ExamSathi is a multi-page educational website designed for college students prep
 - **Responsive Design**: Works seamlessly on mobile, tablet, and desktop
 - **Clean Modern UI**: Easy-to-use interface with smooth navigation
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ExamSathi/
@@ -50,7 +50,7 @@ ExamSathi/
 
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -81,7 +81,7 @@ php -S localhost:8000
 
 Then visit: `http://localhost:8000`
 
-## 📖 Usage
+## Usage
 
 1. **Homepage**: Click "Start Learning" to begin
 2. **Select Course**: Choose your course (e.g., B.Tech, MCA)
@@ -89,7 +89,7 @@ Then visit: `http://localhost:8000`
 4. **Select Unit**: Choose the unit you want to study
 5. **Study Material**: Access notes, videos, books, and chatbot help
 
-## 🎨 Features in Detail
+## Features in Detail
 
 ### Notes Protection
 - Text selection disabled
@@ -145,7 +145,7 @@ Example structure:
 }
 ```
 
-## 🎨 Customization
+## Customization
 
 ### Colors
 Edit CSS variables in `css/style.css`:
@@ -161,7 +161,7 @@ Edit CSS variables in `css/style.css`:
 ### Course Icons
 Change emoji icons in `js/data.js` for courses, subjects, etc.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Backend integration for user authentication
 - Progress tracking for students
@@ -173,7 +173,7 @@ Change emoji icons in `js/data.js` for courses, subjects, etc.
 - Dark mode toggle
 - Multiple language support
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**: Structure and content
 - **CSS3**: Styling and responsive design
@@ -181,7 +181,7 @@ Change emoji icons in `js/data.js` for courses, subjects, etc.
 - **YouTube API**: Video embedding
 - **Google Gemini API**: AI chatbot (ready to integrate)
 
-## 📱 Browser Compatibility
+## Browser Compatibility
 
 - Chrome (recommended)
 - Firefox
@@ -189,7 +189,7 @@ Change emoji icons in `js/data.js` for courses, subjects, etc.
 - Edge
 - Opera
 
-## 🤝 Contributing
+## Contributing
 
 To add more content or improve the website:
 
@@ -198,11 +198,11 @@ To add more content or improve the website:
 3. Add new features in respective JS files
 4. Test thoroughly before deploying
 
-## 📄 License
+## License
 
 This project is open for educational purposes.
 
-## 👨‍💻 Developer Notes
+## Developer Notes
 
 - All data is currently stored in `js/data.js` (frontend only)
 - Session storage is used to track user navigation
@@ -210,7 +210,7 @@ This project is open for educational purposes.
 - Contact form currently shows success message (no actual email sent)
 - Chatbot uses placeholder responses (integrate Gemini API for real functionality)
 
-## 🎓 For Students
+## For Students
 
 ExamSathi helps you:
 - Find exam-focused content quickly
@@ -220,7 +220,7 @@ ExamSathi helps you:
 - Ask questions to AI assistant
 - Stay focused during exam time
 
-## 📞 Support
+## Support
 
 For questions or feedback, use the Contact page on the website.
 
